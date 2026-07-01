@@ -1,0 +1,8 @@
+{
+    "minSeconds": 5,
+    "maxSeconds": 10,
+    "targetAmount": 1000,
+    "startAmount": 1000,
+    "decimals": 0,
+    "tickMs": 10
+}
